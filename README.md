@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
