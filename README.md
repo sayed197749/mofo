@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
