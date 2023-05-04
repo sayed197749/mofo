@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
