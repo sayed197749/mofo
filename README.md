@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add PaddlePaddle Docs Integrations Page (#8858)
