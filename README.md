@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add plot_images conf_thresh parameter (#8446)
