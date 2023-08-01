@@ -1,1 +1,1 @@
-update requirements.txt
+* fix for predicting with batch_size > 1
