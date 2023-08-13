@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add YOLOv8 LibTorch C++ inference example (#7090)
