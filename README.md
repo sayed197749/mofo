@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Update Docs Home and Neural Magic pages (#7243)
