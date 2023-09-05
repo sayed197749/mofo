@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
