@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+fix yolo classify model loading error (#9196)
