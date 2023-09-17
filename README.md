@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Update CI.md with CI links (#8786)
