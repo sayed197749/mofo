@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Explorer with LanceDB, Actions and Docs updates (#7487)
