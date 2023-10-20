@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Capitalize OBB acronym (#7383)
