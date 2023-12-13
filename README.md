@@ -1,1 +1,1 @@
-fix val each epoch
+New HUB Cloud Training docs page (#8174)
