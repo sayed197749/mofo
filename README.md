@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
