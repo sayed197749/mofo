@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add new @Retry() decorator (#7854)
