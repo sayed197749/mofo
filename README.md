@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Replace onnx2tf usage from CLI to Python (#8429)
