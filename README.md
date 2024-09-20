@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Modify tuner best.pt logic to train first (#8792)
